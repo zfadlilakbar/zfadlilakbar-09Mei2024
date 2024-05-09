@@ -48,20 +48,21 @@
 }
 
 .content-item-right {
-    height: 400px;
+    height: 500px;
     width: 100%;
-    border: 1px solid black;
     margin: 18px;
+    background-color: lightgrey;
+    border-radius: 2px;
 }
 
-.content-item>header>h2 {
+.content-item-right>header>h2 {
     text-align: left;
     margin-left: 34px;
     font-family: math;
     font-size: large;
 }
 
-.content-item>header>h3 {
+.content-item-right>header>h3 {
     text-align: left;
     margin-left: 34px;
     font-family: math;

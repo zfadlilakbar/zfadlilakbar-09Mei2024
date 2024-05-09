@@ -93,7 +93,15 @@
     margin-left: 44px;
 }
 
-.custom-select
+.custom-select {
+    display: flex;
+    height: 45px;
+    width: 68%;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin-bottom: 24px;
+    margin-left: 44px;
+}
 
 .content-center {
     align-content: center;

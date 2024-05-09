@@ -1,0 +1,14 @@
+/* Ini CSS */
+.navigation-container {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-top: 12px;
+    padding-bottom: 12
+}
+
+.navigation-container>nav>button {
+    height: 32px;
+    border: 1px solid black
+}

@@ -41,7 +41,7 @@
 }
 
 .content-item {
-    height: 400px;
+    height: 300px;
     width: 100%;
     border: 1px solid black;
     margin: 18px;
@@ -98,7 +98,7 @@
 .custom-select {
     display: flex;
     height: 45px;
-    width: 68%;
+    width: 66%;
     border: 1px solid black;
     border-radius: 4px;
     margin-bottom: 24px;

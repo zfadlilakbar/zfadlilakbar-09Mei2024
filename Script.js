@@ -90,7 +90,12 @@ fuctiom validation() {
         alert('Welcome ' + yourname);
         console.log(yourname);
     }
-    let Email Address =document.getElementById('form-example@email.com')
+    let Email Address =document.getElementById('form-Email Address').value;
+    if (Email Address == '' || Email Address == null) {
+        document.getElementById('form-Email Adress').style.border = "1px solid red"
+        alert('Inputan Anda Kosong, Silahkan Periksa Kembali');
+    } else {
+        alert('Welcome ' + Email Address);
     console.log(Good);
 }
 

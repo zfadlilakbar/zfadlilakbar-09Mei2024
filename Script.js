@@ -79,20 +79,3 @@ function closeAllSelect(elmnt) {
 /* If the user clicks anywhere outside the select box,
 then close all select boxes: */
 document.addEventListener("click", closeAllSelect);
-
-// Section Slide
-let IndexSlide = 1; // [0,1,2]
-showSlide(1)
-
-function nextSlide(){
-    showSlide('next slide' +n);
-    showSlide(indexSlide += n);
-
-}
-
-// Slide Logic
-fuction showSlide(index) {
-    console.log('showSlide' + index);
-}
-
-document.getElementById('send-btn').addEventListener('click', () => nextSlide(1))

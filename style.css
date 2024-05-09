@@ -28,3 +28,15 @@
     border: 1px solid black;
     margin: 18px;
 }
+
+.item-form {
+    text-align: center;
+}
+
+.item-form>input {
+    height: 26px;
+    width: 50%;
+    margin-left: 8px;
+    border: 1px solid darkgrey;
+    border-radius: 4px;
+}

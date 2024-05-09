@@ -4,14 +4,16 @@
     justify-content: space-between;
     padding-left: 32px;
     padding-right: 32px;
-    padding-top: 12px;
-    padding-bottom: 12px;
 }
 
 .element-style>nav>button {
     height: 32px;
+    width: 100px;
     border: 1px solid black;
+    border-radius: 2px;
     background-color: white;
+    font-family: fangsong;
+    font-size: inherit;
 }
 
 .content-style>header {

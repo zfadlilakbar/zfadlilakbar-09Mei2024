@@ -56,18 +56,17 @@
 }
 
 .content-item-right>header>h2 {
-    text-align: left;
-    margin-left: 34px;
+    margin-left: 50px;
     font-family: math;
     font-size: large;
 }
 
 .content-item-right>header>h3 {
-    text-align: left;
-    margin-left: 34px;
+    margin-left: 50px;
     font-family: math;
     font-size: smaller;
     width: 60%;
+    margin-bottom: 50px;
 }
 
 .item-form {
@@ -79,19 +78,18 @@
 .item-form>label {
     display: flex;
     font-family: math;
-    font-size: large;
-    margin-bottom: 26px;
-    margin-left: 28px;
+    font-size: smaller;
+    margin-left: 44px;
 }
 
 .item-form>input {
     display: flex;
     height: 40px;
-    width: 60%;
+    width: 65%;
     margin-left: 0px;
     border: 1px solid black;
     border-radius: 4px;
-    margin-bottom: 12px;
+    margin-bottom: 44px;
 }
 
 .content-center {

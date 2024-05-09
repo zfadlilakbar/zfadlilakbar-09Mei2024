@@ -45,11 +45,7 @@
     width: 100%;
     border: 1px solid black;
     margin: 18px;
-}
-
-.content-picture {
-    background-image: url(assets/singapura.jpg); 
-    background-size: cover;
+    background-size: color;
 }
 
 .content-item-right {

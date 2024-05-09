@@ -48,14 +48,6 @@
     background-size: color;
 }
 
-.banner-item {
-    height: 400px;
-    width: 100%;
-    border: 1px solid black;
-    margin: 18px;
-    background-size: color;
-}
-
 .content-item-right {
     height: 500px;
     width: 60%;

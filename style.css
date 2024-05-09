@@ -37,10 +37,15 @@
     text-align: center;
 }
 
+.item-form>label {
+    text-align: left;
+}
+
 .item-form>input {
-    height: 26px;
+    display: flex;
+    height: 32px;
     width: 50%;
-    margin-left: 8px;
-    border: 1px solid darkgrey;
+    margin-left: 0px;
+    border: 1px solid black;
     border-radius: 4px;
 }

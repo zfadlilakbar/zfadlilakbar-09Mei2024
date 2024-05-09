@@ -99,4 +99,17 @@ fuctiom validation() {
     console.log(Good);
 }
 
+
+// Section Slide
+let IndexSlide = 1;
+
+function nextSlide(){
+
+}
+
+// Slide Logic
+fuction showSlide(index) {
+
+}
+
 document.getElementById('SEND-btn').addEventListener('click',() => validation)

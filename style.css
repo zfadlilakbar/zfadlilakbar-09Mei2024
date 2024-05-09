@@ -29,6 +29,10 @@
     margin: 18px;
 }
 
+.content-item>header>h2 {
+    text-align: center;
+}
+
 .item-form {
     text-align: center;
 }

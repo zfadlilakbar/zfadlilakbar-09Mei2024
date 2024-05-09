@@ -115,6 +115,14 @@
     font-family: math;
 }
 
+.content-description {
+    height: 40px;
+    width: 58%;
+    margin-bottom: 50px;
+    font-size: smaller;
+    font-family: emoji;
+}
+
 .content-center {
     align-content: center;
     text-align: center;

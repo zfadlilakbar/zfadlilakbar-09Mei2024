@@ -80,26 +80,6 @@ function closeAllSelect(elmnt) {
 then close all select boxes: */
 document.addEventListener("click", closeAllSelect);
 
-// Validate Function
-fuctiom validation() {
-    let yourname =document.getElementById('form-yourname').value;
-    if (yourname == '' || username == null) {
-        document.getElementById('form-yourname').style.border = '1px solid red'
-        alert('Inputan Anda Kosong, Silahkan Periksa Kembali');
-    } else {
-        alert('Welcome ' + yourname);
-        console.log(yourname);
-    }
-    let Email Address =document.getElementById('form-Email Address').value;
-    if (Email Address == '' || Email Address == null) {
-        document.getElementById('form-Email Adress').style.border = "1px solid red"
-        alert('Inputan Anda Kosong, Silahkan Periksa Kembali');
-    } else {
-        alert('Welcome ' + Email Address);
-    console.log(Good);
-}
-
-
 // Section Slide
 let IndexSlide = 1;
 
@@ -111,5 +91,3 @@ function nextSlide(){
 fuction showSlide(index) {
 
 }
-
-document.getElementById('SEND-btn').addEventListener('click',() => validation)

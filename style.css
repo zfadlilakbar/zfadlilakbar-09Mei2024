@@ -1,5 +1,5 @@
 /* Ini CSS */
-.navigation-container {
+.element-style {
     display: flex;
     justify-content: space-between;
     padding-left: 32px;
@@ -8,7 +8,7 @@
     padding-bottom: 12px;
 }
 
-.navigation-container>nav>button {
+.element-style>nav>button {
     height: 32px;
     border: 1px solid black;
     background-color: white;

@@ -84,6 +84,7 @@
 }
 
 .content-center {
+    align-content: center;
     text-align: center;
     font-size: large;
     font-family: math;

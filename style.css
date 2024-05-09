@@ -7,6 +7,13 @@
     align-items: center;
 }
 
+.element-icon {
+    background-image: url(assets/logo.png);
+    height: 60px; 
+    width: 60px; 
+    background-size: cover;
+}
+
 .element-style>nav>button {
     height: 26px;
     width: 80px;
